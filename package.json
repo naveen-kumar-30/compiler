@@ -1,0 +1,21 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "A web-based compiler project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "compiler",
+    "web",
+    "node"
+  ],
+  "author": "naveen kumar,prasanth",
+  "license": "MIT"
+}

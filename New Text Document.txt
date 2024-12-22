@@ -1,0 +1,10 @@
+{
+  "name": "web-compiler",
+  "version": "1.0.0",
+  "description": "A simple web-based compiler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
